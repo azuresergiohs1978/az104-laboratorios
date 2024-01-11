@@ -4,3 +4,6 @@ https://github.com/sergiohs1978/az104-laboratorios/tree/main/Instructions/Labs
 
 
 RUTA ORIGINAL DE MICROSOFT IMPORTADA: https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.es-es.git
+
+RUTA DEL Microsoft Learn, ENLACE: [Microsoft Learn](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator.es-es/)https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator.es-es/
+
