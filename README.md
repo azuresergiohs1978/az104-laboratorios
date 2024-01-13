@@ -1,9 +1,0 @@
-PARA EJECUTAR Y VER LOS LABORATORIOS USAR LA SIGUIENTE RUTA:
-
-https://github.com/azuresergiohs1978/az104-laboratorios/tree/master/Instructions/Labs
-
-
-RUTA ORIGINAL DE MICROSOFT IMPORTADA: https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.es-es.git
-
-RUTA DEL Microsoft Learn, ENLACE: [Microsoft Learn](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator.es-es/)https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator.es-es/
-
