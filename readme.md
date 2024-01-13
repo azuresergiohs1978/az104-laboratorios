@@ -41,3 +41,12 @@ Con efecto inmediato: la contraseña de administrador se quitará de los archivo
 ### Materiales de aula
 
 Se recomienda encarecidamente que los MCT y los socios accedan a estos materiales y, a su vez, los proporcionen por separado a los estudiantes.  Asignar los estudiantes directamente a GitHub para acceder a los pasos del laboratorio como parte de una clase en curso requerirá que accedan a otra interfaz de usuario como parte del curso, lo que contribuye a una experiencia confusa para el estudiante. Una explicación para el estudiante sobre por qué recibe instrucciones de laboratorio separadas puede resaltar la naturaleza de una interfaz y plataforma basada en la nube en constante cambio. El soporte técnico de Microsoft Learning para acceder a los archivos en GitHub y el soporte para la navegación del sitio de GitHub se limita solo a los MCT que imparten este curso.
+
+PARA EJECUTAR Y VER LOS LABORATORIOS USAR LA SIGUIENTE RUTA:
+
+https://github.com/azuresergiohs1978/az104-laboratorios/tree/master/Instructions/Labs
+
+
+RUTA ORIGINAL DE MICROSOFT IMPORTADA: https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator.es-es.git
+
+RUTA DEL Microsoft Learn, ENLACE: [Microsoft Learn](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator.es-es/)https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator.es-es/
